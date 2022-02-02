@@ -1,4 +1,4 @@
-#ifndef CONSTANTS_H
+﻿#ifndef CONSTANTS_H
 #define CONSTANTS_H
 
 #include <iostream>
@@ -22,6 +22,8 @@ using namespace std;
 
  const string BuzyMark  = "*занят*РЦ*";
  const string FreeMark   = "*своб*РЦ*";
+
+
  const string ConditionMark  = "*дополн*услов*";
  const string CondAndMark  = "И";
  const string CondOrMark  = "ИЛИ";
